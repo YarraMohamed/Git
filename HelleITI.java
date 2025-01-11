@@ -1,5 +1,6 @@
 public class HelloWorld{
 	void printHelloITI(){
+		System.out.println("Hello ITI");
 		System.out.println("Hello Rana");
 	}
 	void printHelloGit(){
